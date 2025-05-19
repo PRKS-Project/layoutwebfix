@@ -3,14 +3,14 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome to Laravel</title>
+    <title>PRKS DHARUS SYAFA'AH</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 flex items-center justify-center h-screen">
 
     <div class="text-center">
-        <h1 class="text-5xl font-bold text-indigo-600">Welcome to MyApp</h1>
-        <p class="mt-4 text-gray-600">A simple and elegant PHP framework for web.</p>
+    <h1 class="text-5xl font-bold" style="color: #2c5e4f;">PRKS DHARUS SYAFA'AH</h1>
+        <p class="mt-4 text-gray-600">Digitalisasi sistem Pengajian dan Tabungan.</p>
 
         <div class="mt-6">
             @auth

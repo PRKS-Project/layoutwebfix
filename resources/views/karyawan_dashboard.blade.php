@@ -6,3 +6,5 @@
     <p>Selamat datang, {{ Auth::user()->name }}!</p>
 </div>
 @endsection
+
+d enf bds 
